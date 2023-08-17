@@ -47,7 +47,7 @@ Harness your identity data with intelligent integration to drive better business
 </section>
 
 
-## RadiantOne Universal Directory
+## RadiantOne Directory
 
 <section>
    
